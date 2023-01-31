@@ -14,3 +14,16 @@ Considering this problem will have a binary resolve with respect to each individ
 1. Logistic Regression
 2. Support Vector Machines
 3. K Nearest Neighbours
+
+Here's the result of the accuracy I achieved on the training set:
+
+| Model                   | Accuracy %  |
+|-------------------------|-------------|
+| Naive Bayes             | ~25         |
+| Logistic Regression     | ~84         |
+| Support Vector Machines | ~86         |
+| KNN                     | ~87         |
+
+I chose to go ahead with Logistic Regression since it gave the best results on the testing set.
+
+**I received a final accuracy score of 84.2% with this model on the testing set.**
